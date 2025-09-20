@@ -1,0 +1,41 @@
+This file is a dataset of 777 colleges with 19 attributes describing their characteristics.
+
+Here’s what it contains:
+
+Unnamed: 0 → College name
+
+Private → Whether the college is private (Yes/No)
+
+Apps → Number of applications received
+
+Accept → Number of applicants accepted
+
+Enroll → Number of new students enrolled
+
+Top10perc → % of new students from top 10% of high school class
+
+Top25perc → % of new students from top 25% of high school class
+
+F.Undergrad → Number of full-time undergraduates
+
+P.Undergrad → Number of part-time undergraduates
+
+Outstate → Tuition for out-of-state students
+
+Room.Board → Cost of room and board
+
+Books → Estimated book costs
+
+Personal → Estimated personal spending
+
+PhD → % of faculty with PhD
+
+Terminal → % of faculty with terminal degree
+
+S.F.Ratio → Student-to-faculty ratio
+
+perc.alumni → % of alumni who donate
+
+Expend → Instructional expenditure per student
+
+Grad.Rate → Graduation rate (%)
